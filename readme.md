@@ -3,9 +3,9 @@
 
 翻译科技书籍：PFC.pdf，模板参考[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)。
 
-## 环境配置
-相关[开发工具](https://pan.baidu.com/s/1_ZLBRmA15gJzlRNJZYJElw),
-提取码：dong
+## 贡献指南
+1. 下载相关[开发工具](https://pan.baidu.com/s/1_ZLBRmA15gJzlRNJZYJElw) （提取码：dong），先安装`texlive`，再安装`texstudio`。
+2. 使用`texstudio`打开`elegantbook-cn.tex`或者对应章节的`chap1/chap1.tex`，点击菜单`Tools->Build & View`。
 
 
 ## 参与人
