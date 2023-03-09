@@ -3,6 +3,11 @@
 
 翻译科技书籍：PFC.pdf，模板参考[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)。
 
+## 环境配置
+相关[开发工具](https://pan.baidu.com/s/1_ZLBRmA15gJzlRNJZYJElw),
+提取码：dong
+
+
 ## 参与人
 Chapter I  ----陈文宇 220720835018
 
