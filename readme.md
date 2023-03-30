@@ -28,6 +28,13 @@
 1. 图片统一放进image_pfc文件夹，并按照原文格式命名，如Fig_5_1；
 2. 提交代码到开源仓库时创建分支，可按照姓名命名。
 
+
+## 持续集成/持续部署
+[实现第一个Github Actions](https://docs.github.com/en/actions/quickstart) 。
+
+参考[链接](https://mrturkmen.com/posts/build-release-latex/) ，通过 github actions 生成和处理 latex。
+
+
 ## 参与人
 
 总编辑 ---- 王海东、段金焱
