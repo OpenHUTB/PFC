@@ -26,28 +26,35 @@
 ### 开发建议
 
 1. 图片统一放进image_pfc文件夹，并按照原文格式命名，如Fig_5_1；
-2. 提交代码到开源仓库时创建分支，可按照姓名命名。
+2. 提交代码到开源仓库时创建分支，可按照章节或姓名命名。
+
+
+## 持续集成/持续部署
+[实现第一个Github Actions](https://docs.github.com/en/actions/quickstart) 。
+
+参考[链接](https://mrturkmen.com/posts/build-release-latex/) ，通过 github actions 生成和处理 latex。
+
 
 ## 参与人
 
-总编辑 ---- 王海东、段金焱
+总编辑 ---- 王海东、段金焱 [Duan359](https://github.com/Duan359)
 
-第一章  ---- 陈文宇 220720835018
+第一章  ---- 陈文宇 220720835018 [cwycwy299](https://github.com/cwycwy299) 
 
-第二章  ---- 吴佳妮 220720835013
+第二章  ---- 吴佳妮 220720835013 [jianiwuoo](https://github.com/jianiwuoo) 
 
-第三章  ---- 周金爽 220720835019
+第三章  ---- 周金爽 220720835019 [superzeroT](https://github.com/superzeroT)
 
-第四章  ---- 陈艺琳 220720835024
+第四章  ---- 陈艺琳 220720835024 [chenyl111](https://github.com/chenyl111)
 
-第五章  ---- 刘家琪 220720835025
+第五章  ---- 刘家琪 220720835025 [AwooDancer](https://github.com/AwooDancer)
 
-第六章  ---- 文沛然 220720835036
+第六章  ---- 文沛然 220720835036 [wpr123](https://github.com/wpr123)
 
-第七章  ---- 张洋铨 220720835014
+第七章  ---- 张洋铨 220720835014 [Purpleashes](https://github.com/Purpleashes)
 
-第八章  ---- 谢恩坪 220720835037
+第八章  ---- 谢恩坪 220720835037 [half-white](https://github.com/half-white)
 
-第九章  ---- 吴玉庭 220720835001
+第九章  ---- 吴玉庭 220720835001 [Sandra2Ha](https://github.com/Sandra2Ha)
 
-第十章  ---- 雷利民 220720835005
+第十章  ---- 雷利民 220720835005 [Shadow0714](https://github.com/Shadow0714)
