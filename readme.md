@@ -28,6 +28,12 @@
 1. 图片统一放进image_pfc文件夹，并按照原文格式命名，如Fig_5_1；
 2. 提交代码到开源仓库时创建分支，可按照章节或姓名命名。
 
+### 参考文献
+可以在谷歌学术、百度学术等中获得文献条目（bib item），然后把它们添加到`reference.bib`
+中。在文中引用的时候，引用它们的键值（bib key）即可。
+注意需要在编译的过程中添加`biber`编译，配置如下图所示。
+![alt 属性文本](image_pfc/reference_guide.png)
+
 
 ## 持续集成/持续部署
 [实现第一个Github Actions](https://docs.github.com/en/actions/quickstart) 。
