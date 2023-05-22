@@ -4,7 +4,7 @@
 翻译科技书籍：PFC.pdf，模板参考[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)。
 
 # 贡献指南
-在进行更改之前，请阅读 [CONTRIBUTING](https://github.com/OpenHUTB/bazaarblob/master/CONTRIBUTING.md) 文档。
+在进行更改之前，请阅读 [CONTRIBUTING](https://github.com/OpenHUTB/bazaar/blob/CONTRIBUTING.md) 文档。
 
 # 参与人
 
