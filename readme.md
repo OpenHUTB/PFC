@@ -1,7 +1,7 @@
 
 # 2023年春季学期——课程项目
 
-翻译科技书籍：PFC.pdf。 
+翻译科技书籍：PFC.pdf。
 
 ## 贡献指南
 在进行更改之前，请阅读 [贡献指南](https://github.com/OpenHUTB/bazaar/blob/master/CONTRIBUTING.md) 文档。
