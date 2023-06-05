@@ -57,12 +57,10 @@
 5. 删除当前页面和图片无关的内容
 ![alt 属性文本](image/5_delete_content.png)
 
-
 6. 选择图片区域
 ![alt 属性文本](image/6_select_region.png)
 
-
-7. 裁剪页面
+7. 裁剪页面：点击“裁剪页面”，双击空白地方，选中“约束比例”和“删除边距”，然后点“确定”；
 ![alt 属性文本](image/7_delete_region.png)
 
 8. 编辑并翻译图中文本
