@@ -14,7 +14,7 @@
 
 ## 代码提交
 
-先进行本地提交（参考可视化工具管理），然后[推送到开源仓库](https://github.com/OpenHUTB/bazaar/issues/19#issuecomment-1471533397) 。
+先进行本地提交（参考可视化工具管理），然后[推送到开源仓库](https://zhuanlan.zhihu.com/p/153381521) 。
 
 
 ### 本地检查`Pull requests`请求
