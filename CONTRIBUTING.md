@@ -11,10 +11,11 @@
 - [命令管理](https://blog.csdn.net/weixin_45682261/article/details/124003706) ；
 - 可视化工具管理：利用可视化工具[TortoiseGit](https://blog.csdn.net/xwnxwn/article/details/108694863) 进行项目管理。
 
+ 
 
 ## 代码提交
 
-先进行本地提交（参考可视化工具管理），然后[推送到开源仓库](https://zhuanlan.zhihu.com/p/153381521) 。
+先进行本地提交（参考可视化工具管理），然后[提交Pull Request](https://zhuanlan.zhihu.com/p/153381521) 推送到开源仓库。
 
 
 ### 本地检查`Pull requests`请求
