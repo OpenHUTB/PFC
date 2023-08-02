@@ -22,9 +22,20 @@
 有人发送`Pull requests`时，可以在 GitHub 上合并之前[测试并验证更改](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally) 。
 
 
-## 科学上网
-国内访问github可能较慢，这里提供一个科学上网的[链接](https://a.kkkcloud.men/#/login) 。
+# 问题
+1. 国内访问github可能较慢
+这里提供一个科学上网的[链接](https://a.kkkcloud.men/#/login) 。
 
+2. 向github上push的时候报403错误
+打开`.git/config`，比如：
+```
+url = https://github.com/OpenHUTB/bazaar.git
+```
+将你用户名复制粘贴到github前面再加个@，变成：
+```
+url = https://OpenHUTB@github.com/OpenHUTB/bazaar.git
+```
+然后就可以进行授权并继续push。
 
 
 
