@@ -23,10 +23,10 @@
 
 
 # 问题
-1. 国内访问github可能较慢
+## 国内访问github可能较慢
 这里提供一个科学上网的[链接](https://a.kkkcloud.men/#/login) 。
 
-2. 向github上push的时候报403错误
+## 向github上push的时候报403错误
 打开`.git/config`，比如：
 ```
 url = https://github.com/OpenHUTB/bazaar.git
