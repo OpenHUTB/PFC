@@ -11,7 +11,18 @@
 - [命令管理](https://blog.csdn.net/weixin_45682261/article/details/124003706) ；
 - 可视化工具管理：利用可视化工具[TortoiseGit](https://blog.csdn.net/xwnxwn/article/details/108694863) 进行项目管理。
 
+
+### 递归克隆
+```shell
+git clone --recursive https://github.com/OpenHUTB/utils.git
+```
+
+### 同步子模块
+```
+git submodule update --remote
+```
  
+
 
 ## 代码提交
 
@@ -20,6 +31,8 @@
 
 ### 本地检查`Pull requests`请求
 有人发送`Pull requests`时，可以在 GitHub 上合并之前[测试并验证更改](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally) 。
+
+
 
 
 ## 科学上网
