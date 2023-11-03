@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
       - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v3
+        uses: xu-cheng/latex-action@v2
         with:
           root_file: elegantbook-cn.tex
-          texlive_version: 2023
+          texlive_version: 2022
           latexmk_use_xelatex: true
