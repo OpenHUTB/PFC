@@ -3,6 +3,8 @@
 
 翻译科技书籍：PFC.pdf。
 
+相关资源[下载链接](https://pan.baidu.com/s/1_ZLBRmA15gJzlRNJZYJElw?pwd=dong) 。
+
 ## 贡献指南
 在进行更改之前，请阅读 [贡献指南](https://github.com/OpenHUTB/bazaar/blob/master/CONTRIBUTING.md) 文档，翻译方法请参考[链接](https://github.com/OpenHUTB/bazaar/blob/master/translation.md) 。
 
