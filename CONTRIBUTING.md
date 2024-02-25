@@ -2,6 +2,8 @@
 
 # 贡献指南
 
+相关资源下载[链接](https://pan.baidu.com/s/1_ZLBRmA15gJzlRNJZYJElw?pwd=dong) 。
+
 ## 贡献步骤
 1. 下载相关[开发工具](https://pan.baidu.com/s/1Is2-VR1z-tMYvmdinsVY_g?pwd=hutb) ，先安装`Git-2.40.0-64-bit.exe`，再安装`TortoiseGit-2.14.0.0-64bit.msi`。
 
