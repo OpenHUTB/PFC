@@ -13,7 +13,7 @@
 
 第一章  ---- 陈文宇 [cwycwy299](https://github.com/cwycwy299) 
 
-第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo) 
+第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro  
 
 第三章  ---- 周金爽 [superzeroT](https://github.com/superzeroT)
 
