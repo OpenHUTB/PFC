@@ -13,4 +13,5 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: elegantbook-cn.tex
+          texlive_version: 2023
           latexmk_use_xelatex: true
