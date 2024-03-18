@@ -9,11 +9,11 @@
 
 ## 参与人
 
-总编辑 ---- 王海东、段金焱 [Duan359](https://github.com/Duan359)
+总编辑 ---- 王海东、段金焱 [Duan359](https://github.com/Duan359)---尹璐 [lulu7795](https://github.com/lulu7795/PFC)  ----万薇[12oneway](https://github.com/12oneway/neuro )
 
 第一章  ---- 陈文宇 [cwycwy299](https://github.com/cwycwy299) 
 
-第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro ----万薇[12oneway]https://github.com/12oneway/neuro 
+第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo)  ---尹璐 [lulu7795](https://github.com/lulu7795/PFC) ----万薇[12oneway](https://github.com/12oneway/neuro )
 
 第三章  ---- 周金爽 [superzeroT](https://github.com/superzeroT)
 
