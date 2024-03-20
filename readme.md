@@ -15,9 +15,9 @@
 
 第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro ----万薇[12oneway]https://github.com/12oneway/neuro 
 
-第三章  ---- 周金爽 [superzeroT](https://github.com/superzeroT) ---王隆鑫 [perfectwlx] https://github.com/perfectwlx/neuro 
+第三章  ---- 周金爽 [superzeroT](https://github.com/superzeroT) ---王隆鑫 [perfectwlx] (https://github.com/perfectwlx)
 
-第四章  ---- 陈艺琳 [chenyl111](https://github.com/chenyl111)---王隆鑫 [perfectwlx] https://github.com/perfectwlx/neuro 
+第四章  ---- 陈艺琳 [chenyl111](https://github.com/chenyl111)---王隆鑫 [perfectwlx] (https://github.com/perfectwlx)
 
 第五章  ---- 刘家琪 [AwooDancer](https://github.com/AwooDancer)
 
