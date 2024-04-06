@@ -9,15 +9,19 @@
 
 ## 参与人
 
-总编辑 ---- 王海东、段金焱 [Duan359](https://github.com/Duan359)
+总编辑 ---- 王海东、段金焱 [Duan359](https://github.com/Duan359)---尹璐 [lulu7795](https://github.com/lulu7795/PFC)  ----万薇[12oneway](https://github.com/12oneway/neuro )
 
 第一章  ---- 陈文宇 [cwycwy299](https://github.com/cwycwy299) 
 
+<<<<<<< HEAD
 第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo)  ---尹璐 [lulu7795] https://github.com/lulu7795/neuro
+=======
+第二章  ---- 吴佳妮 [jianiwuoo](https://github.com/jianiwuoo)  ---尹璐 [lulu7795](https://github.com/lulu7795/PFC) ----万薇[12oneway](https://github.com/12oneway/neuro )
+>>>>>>> 2cbc063e0297fbd9267ae96ae523b599b3626944
 
-第三章  ---- 周金爽 [superzeroT](https://github.com/superzeroT)
+第三章  ---- 周金爽 [superzeroT](https://github.com/superzeroT) ---王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
-第四章  ---- 陈艺琳 [chenyl111](https://github.com/chenyl111)
+第四章  ---- 陈艺琳 [chenyl111](https://github.com/chenyl111)---王隆鑫 [perfectwlx](https://github.com/perfectwlx)
 
 第五章  ---- 刘家琪 [AwooDancer](https://github.com/AwooDancer)
 
