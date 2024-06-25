@@ -1,4 +1,3 @@
-
 # 前额叶皮层
 
 翻译科技书籍：[前额叶皮层](https://github.com/OpenHUTB/PFC/blob/main/PFC_en.pdf) 、[强化学习](https://github.com/OpenHUTB/PFC/blob/main/RL.pdf) 。
