@@ -37,7 +37,7 @@ git submodule update --remote
 
 # 问题
 ## 国内访问github可能较慢
-这里提供一个科学上网的[链接](https://b.kkkcloud.men/#/register?code=cutiIv9u) 。
+这里提供一个科学上网的[链接](https://openhutb.github.io/carla_doc/build_carla/#internet) 。
 
 ## 向github上push的时候报403错误
 打开`.git/config`，比如：
