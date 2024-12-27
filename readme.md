@@ -3,7 +3,7 @@
 翻译科技书籍：[前额叶皮层](https://github.com/OpenHUTB/PFC/blob/main/PFC_en.pdf) 、[强化学习](https://github.com/OpenHUTB/PFC/blob/main/RL.pdf) 。
 
 ## 贡献指南
-在进行更改之前，请阅读 [贡献指南](https://github.com/OpenHUTB/bazaar/blob/master/CONTRIBUTING.md) 文档，翻译方法请参考[链接](https://github.com/OpenHUTB/bazaar/blob/master/translation.md) 。
+在进行更改之前，请阅读 [贡献指南](https://github.com/OpenHUTB/.github/blob/master/CONTRIBUTING.md) 文档，翻译方法请参考[链接](https://github.com/OpenHUTB/bazaar/blob/master/translation.md) 。
 
 
 ## 目录
