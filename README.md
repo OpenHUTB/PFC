@@ -37,5 +37,4 @@
 ## 参考
 [强化学习的神经科学](https://www.cnblogs.com/lucifer1997/p/13509615.html) 。
 
-### 贡献者列表
-王海东、段金焱 [Duan359](https://github.com/Duan359) 、尹璐 [lulu7795](https://github.com/lulu7795/PFC)  、万薇[12oneway](https://github.com/12oneway/neuro ) 、陈文宇 [cwycwy299](https://github.com/cwycwy299) 、吴佳妮 [jianiwuoo](https://github.com/jianiwuoo)  、周金爽 [superzeroT](https://github.com/superzeroT) 、王隆鑫 [perfectwlx](https://github.com/perfectwlx) 、陈艺琳 [chenyl111](https://github.com/chenyl111) 、王隆鑫 [perfectwlx](https://github.com/perfectwlx) 、刘家琪 [AwooDancer](https://github.com/AwooDancer) 、文沛然 [wpr123](https://github.com/wpr123) 、张洋铨 [Purpleashes](https://github.com/Purpleashes) 、谢恩坪 [half-white](https://github.com/half-white) 、吴玉庭 [Sandra2Ha](https://github.com/Sandra2Ha) 、雷利民 [Shadow0714](https://github.com/Shadow0714) 。
+
