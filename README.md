@@ -8,7 +8,7 @@
 
 ## 目录
 
-第一章  ---- 介绍（[前额叶皮质多尺度模型](https://github.com/ModelDBRepository/2014821) ）
+第一章  ---- 介绍
 
 第二章  ---- 进化
 
@@ -35,6 +35,8 @@
 
 
 ## 参考
-[强化学习的神经科学](https://www.cnblogs.com/lucifer1997/p/13509615.html) 。
+* [强化学习的神经科学](https://www.cnblogs.com/lucifer1997/p/13509615.html) 
+* [实现：前额叶皮质多尺度模型](https://github.com/ModelDBRepository/2014821) 
+
 
 
