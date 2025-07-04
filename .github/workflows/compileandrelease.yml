@@ -12,11 +12,19 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v3
-      - name: Compile LaTeX document
+        
+      - name: Compile document with latex 2025
         uses: xu-cheng/latex-action@v3
         with:
           root_file: PFC.tex
-          texlive_version: latest
+          texlive_version: 2025
+          latexmk_use_xelatex: true
+          
+      - name: Compile document with latex 2024
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: PFC.tex
+          texlive_version: 2024
           latexmk_use_xelatex: true
           
       - name: Release
