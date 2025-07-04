@@ -5,7 +5,10 @@ on: [push, pull_request]
     
 jobs:
   build_latex:
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v3
@@ -13,7 +16,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: PFC.tex
-          texlive_version: 2023
+          texlive_version: 2025
           latexmk_use_xelatex: true
           
       - name: Release
