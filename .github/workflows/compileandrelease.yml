@@ -16,7 +16,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: PFC.tex
-          texlive_version: 2025
+          texlive_version: latest
           latexmk_use_xelatex: true
           
       - name: Release
