@@ -1,7 +1,10 @@
+# 使用不同的latex版本编译，需要放到不同文件中
+# 放到不同-name中编译会报错：
+# Biber error: [336] Utils.pm:411> ERROR - Error: Found biblatex control file version 3.11, expected version 3.7.
 
 name: Compile Latex
 
-on: [push]
+on: [push, pull_request]
     
 jobs:
   build_latex:
@@ -13,17 +16,10 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v3
         
-      - name: Compile document with latex 2025
+      - name: Compile document with latex 2020
         uses: xu-cheng/latex-action@v3
         with:
           root_file: PFC.tex
-          texlive_version: 2025
+          texlive_version: 2020
           latexmk_use_xelatex: true
-          
-      - name: Release
-        uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
-        with:
-          files: PFC.pdf
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
