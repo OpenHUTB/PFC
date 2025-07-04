@@ -20,13 +20,6 @@ jobs:
           texlive_version: 2025
           latexmk_use_xelatex: true
           
-      - name: Compile document with latex 2020
-        uses: xu-cheng/latex-action@v3
-        with:
-          root_file: PFC.tex
-          texlive_version: 2020
-          latexmk_use_xelatex: true
-          
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
