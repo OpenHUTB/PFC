@@ -1,3 +1,6 @@
+# 使用不同的latex版本编译，需要放到不同文件中
+# 放到不同-name中编译会报错：
+# Biber error: [336] Utils.pm:411> ERROR - Error: Found biblatex control file version 3.11, expected version 3.7.
 
 name: Compile Latex
 
