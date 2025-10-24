@@ -1,0 +1,57 @@
+site_name: 前额叶皮层
+
+#repo_url: https://github.com/carla-simulator/carla
+#docs_dir: Docs
+#edit_uri: 'edit/master/Docs/'
+
+
+# 设置编译页面的链接的前缀
+repo_url: https://github.com/OpenHUTB/PFC
+
+# 页面右上角添加直接编辑页面的按钮
+edit_uri: edit/main/docs
+
+theme:
+  name: readthedocs
+  sticky_navigation: True
+  navigation_depth: 3
+extra_css: [extra.css]
+
+
+
+# mathjax用于单独公式展示
+extra_javascript:
+  - extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+plugins:
+#  - mkdocs-video
+  - mkdocs-pdf
+  - search:
+      lang: ja
+      separator: '[\s\-\.]+'
+      min_search_length: 2
+
+extra:
+  generator: false
+
+nav:
+- 框架: '#content'
+- 一、总论: '#perspective'
+- 二、细胞: '#cell'
+- 三、突触: '#transmission'
+- 四、感知: '#perception'
+- 五、控制: '#control'
+- 六、规划: '#planning'
+- 七、发育: '#development'
+- 八、学习: '#learning'
+- 九、疾病: '#desease'
+
+
+
+
+# - mdx_math 用于行内公式显示
+markdown_extensions:
+  - admonition
+  - attr_list
+  # - mdx_math

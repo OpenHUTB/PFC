@@ -1,0 +1,7 @@
+mkdocs-pdf
+python-markdown-math
+numpy
+fitz
+PyPDF2
+frontend
+pymupdf
