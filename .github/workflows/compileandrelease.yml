@@ -27,3 +27,28 @@ jobs:
           files: PFC.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      - name: Copy to deploy directory
+        run: |
+          cp PFC.pdf docs/PFC.pdf
+
+
+      - name: Build
+        uses: OpenHUTB/actions-mkdocs@main
+        with:
+          mkdocs_version: 'latest' # option
+          #mkdocs_version: '1.1' # option
+          # 安装行内公式渲染的依赖(python-markdown-math)
+          requirements: 'requirements.txt' # option
+          configfile: 'mkdocs.yml' # option
+      # 报错：remote: Permission to donghaiwang/neuro.git denied to github-actions[bot].
+      # 解决：启用 Settings -> Actions -> General -> Workflow permissions 中的 "Read and write permissions"
+
+      
+      - name: Deploy
+        if: ${{ github.event_name == 'push' }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
