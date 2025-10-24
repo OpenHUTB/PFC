@@ -31,7 +31,7 @@ jobs:
 
       - name: Copy to deploy directory
         run: |
-          cp move.pdf docs/PFC.pdf
+          cp PFC.pdf docs/PFC.pdf
 
 
       - name: Build
